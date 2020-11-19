@@ -3,7 +3,6 @@
 .container.hero {
     padding-bottom: var(--section-padding);
 }
-
 footer.container {
     padding-top: 0;
     padding-bottom: calc(var(--section-padding) * 1.5);
@@ -11,7 +10,6 @@ footer.container {
     footer.container > .row-short {
         margin-top: var(--section-padding);
     }
-
 .bg-main-color {
     background-color: var(--main-color);
 }
@@ -35,7 +33,7 @@ footer.container {
 .hero p {
     display: inline-block;
     width: 100%;
-    margin-bottom: calc(var(--hero-space) * 2);
+    margin-bottom: calc(var(--hero-space) * 3);
     font-size: 18px;
     color: #555;
 }
