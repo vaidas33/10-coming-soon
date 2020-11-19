@@ -11,7 +11,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at https://vaidas33.github.io/10-coming-soon/
 
-Design: [Saas-one](https://altrcloud.ru/saasone/index-two)
+Design: [Saas-one](https://cdn.discordapp.com/attachments/648536139677958156/651479019476221953/coming-soon-wide.png)
 
 ## Project features
 
