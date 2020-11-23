@@ -23,4 +23,4 @@ Design: [Matrox coming soon](https://cdn.discordapp.com/attachments/648536139677
 
 ## Authors
 
-[Rimantas](https://github.com/vaidas33)<br>
+[Vaidas](https://github.com/vaidas33)<br>
